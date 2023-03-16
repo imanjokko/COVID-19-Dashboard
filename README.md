@@ -24,7 +24,7 @@ In this dashboard, I analyzed visualized 5 key metrics from the dataset that I b
 - Highest Number of Active Cases
 - Highest Rates of Positive Cases
 
-![](https://github.com/imanjokko/COVID-19-Dashboard/blob/main/dashboard.png)
+![](https://github.com/imanjokko/COVID-19-Dashboard/blob/main/Dashboard.jpg)
 
 ## Audience
 - Epidemiologists
